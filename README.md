@@ -1,6 +1,6 @@
 Summaries of papers on deep learning methods for NLP tasks.  
 
-Due to a fear of the blank page, this is built on top of the existing paper summaries by [Das](https://github.com/abhshkdz/papers]) :pray:  
+Due to a fear of the blank page, this is built on top of the existing paper summaries by [Das](https://github.com/abhshkdz/papers) :pray:  
 
 2020
 
