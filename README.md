@@ -1,9 +1,21 @@
-Summaries of papers on deep learning.
+Summaries of papers on deep learning methods for NLP tasks.  
+
+Due to a fear of the blank page, this is built on top of the existing paper summaries by [Das](https://github.com/abhshkdz/papers]) :pray:  
+
+2020
+
+- Computationally Efficient NER Taggers with Combined Embeddings and Constrained Decoding [[Paper](https://arxiv.org/pdf/2001.01167.pdf)] [[Review](reviews/computationally-efficient-ner-taggers-with-combined-embeddings-and-constrained-decoding.md)]
+    - Brian Lester, Daniel Pressel, Amy Hemmeter, and Sagnik Ray Choudhury, Arxiv, 2020
+
+2019
+
+- TODO: Optimal Transport-based Alignment of Learned Character Representations for String Similarity [[Paper](https://arxiv.org/pdf/1907.10165.pdf)] [[Review](reviews/optimal-transport-based-alignment-of-learned-character-representations-for-string-similarity.md)]
+    - Derek Tam, Nicholas Monath, Ari Kobren, Aaron Traylor, Rajarshi Das, Andrew McCallum, ACL 2019 Florence
 
 2018
 
 - World Models [[Paper](https://arxiv.org/abs/1803.10122)] [[Review](https://github.com/abhshkdz/papers/blob/master/reviews/world-models.md)]
-    - David Ha, Jürgen Schmidhuber, ArXiv, 2018
+    - David Ha, Jürgen Schmidhuber, ArXiv, 2018    
 
 2017
 
