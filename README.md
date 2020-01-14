@@ -1,4 +1,4 @@
-Summaries of papers on deep learning methods for NLP tasks.  
+Summaries of scientific papers on (not just) deep learning methods for NLP tasks!
 
 Due to a fear of the blank page, this is built on top of the existing paper summaries by [Das](https://github.com/abhshkdz/papers) :pray:  
 
